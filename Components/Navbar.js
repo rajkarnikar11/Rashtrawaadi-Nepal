@@ -60,7 +60,26 @@ export default function Navbar() {
             </form>
         </Popup>
         <Popup trigger={TimedPopup} setTrigger={setTimedPopup}>
-            <h3>My popup</h3>
+           <h2 className="text-2xl my-4 text-red-700 font-bold">Join Rashtrawadi Nepal</h2>
+            <form  >
+                <label >
+                    Name:
+                    <input className="m-3 rounded" type="text" name="name" />
+                </label>
+                <br></br>
+                <label>
+                    Age:
+                    <input className="m-3 rounded" type="text" name="name" />
+                </label>
+                <br/>
+                <label>
+                    Ward No.:
+                    <input className="m-3 rounded" type="text" name="name" />
+                </label>
+                <br /><input className="p-2 font-bold m-5 rounded bg-blue-900 text-red-700 hover:bg-red-700 duration-300 hover:text-blue-900 hover:shadow-lg " type="submit" value="Submit" />
+                <br/>
+                <h1 className="text-2xl mt-2 text-blue-900 font-bold">एक राष्ट्र , एक सोच ,एक सिधन्त।</h1>
+            </form>
         </Popup>
         </div>
     )

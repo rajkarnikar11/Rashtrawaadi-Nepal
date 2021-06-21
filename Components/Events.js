@@ -15,7 +15,7 @@ export default function Events() {
                     <div className=" md:w-1/2">
                         <h1 className="text-2xl m-6 text-center text-gray-700" >Event 1</h1>
                         <p className="text-justify text-gray-800">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-                        <button className=" mt-5 bg-gray-700 text-gray-100 py-2 px-4 rounded hover:border-gray-700 duration-300 hover:bg-gray-50 hover:text-gray-700">Read more</button>
+                        <button className=" mt-5 bg-gray-700 text-gray-100 py-2 px-4 rounded  duration-300 hover:bg-white hover:shadow-xl  hover:text-gray-700">Read more</button>
                     </div>
             
                 </div>
@@ -27,7 +27,7 @@ export default function Events() {
                     <div className=" md:w-1/2">
                         <h1 className="text-2xl m-6 text-center text-gray-700" >Event 2</h1>
                         <p className="text-justify text-gray-800">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-                        <button className=" mt-5 bg-gray-700 text-gray-100 py-2 px-4 rounded hover:border-gray-700 duration-300 hover:bg-gray-50 hover:text-gray-700">Read more</button>
+                        <button className=" mt-5 bg-gray-700 text-gray-100 py-2 px-4 rounded hover:border-gray-700 duration-300 hover:bg-white hover:shadow-xl hover:text-gray-700">Read more</button>
 
                     </div>
             
@@ -40,7 +40,7 @@ export default function Events() {
                     <div className=" md:w-1/2">
                         <h1 className="text-2xl m-6 text-center text-gray-700" >Event 3</h1>
                         <p className="text-justify text-gray-800">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-                                                <button className=" mt-5 bg-gray-700 text-gray-100 py-2 px-4 rounded hover:border-gray-700 duration-300 hover:bg-gray-50 hover:text-gray-700">Read more</button>
+                                                <button className=" mt-5 bg-gray-700 text-gray-100 py-2 px-4 rounded hover:border-gray-700 duration-300 hover:bg-white hover:shadow-xl hover:text-gray-700">Read more</button>
 
                     </div>
             

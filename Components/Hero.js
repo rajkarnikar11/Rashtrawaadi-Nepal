@@ -10,8 +10,8 @@ export default function Hero  () {
             <div className="text-center p-5 "> 
             < Image   height={300} width={300} src={Logo} alt="Rashtrabadilogo" />
              <div className="">
-                 <h1 className="md:text-8xl text-7xl font-bold text-blue-900">Rashtrawadi </h1>  
-             <h1 className="md:text-8xl text-7xl font-light font-bold text-red-600">Nepal </h1>
+                 <h1 className="md:text-8xl text-7xl tracking-tighter  text-blue-900">Rashtrawadi </h1>  
+             <h1 className="md:text-8xl text-7xl font-light tracking-tight font-bold text-red-600">Nepal </h1>
             </div></div>
             {/* <div className="text-center p-5 ">
                 <h1 className="text-6xl md:mt-12 md:pt-12 font-bold text-blue-900">
